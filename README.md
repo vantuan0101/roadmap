@@ -8,7 +8,7 @@
 > 4. [Kỹ thuật lập trình](https://www.youtube.com/watch?v=cBRxFYhQ7xk&list=PLlSCjDiLTEH9KODA1WNeDvYWlALBiFVNV)
 > 5. [Xác suất thống kê](https://www.youtube.com/watch?v=Oahag8GhAJ0&list=PLsEmKKF4H46k013lBf0S_NFCMfU-JNZbd)
 
-## ![markdown](https://www.google.com/url?sa=i&url=https%3A%2F%2Fthangphampt.wordpress.com%2F2019%2F01%2F04%2Fmuon-tro-thanh-mot-web-developer-nen-bat-dau-tu-dau%2F&psig=AOvVaw2zwI-9II7VzokpKB0eddRl&ust=1664773298448000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMi-svvhwPoCFQAAAAAdAAAAABAD)Cơ sở ngành
+## ![markdown](https://github.com/vantuan0101/roadmap/blob/main/ta%CC%89i%20xuo%CC%82%CC%81ng.png)Cơ sở ngành
 
 > 6. [Cấu trúc dữ liệu và giải thuật](https://www.youtube.com/watch?v=G4lbERy0hy4&list=PLpUqQVPQJshI78_sxAZ-KerD-yr2XrzcM)
 > 9. [Cơ sỡ dữ liệu](https://www.youtube.com/watch?v=JnHtS4SuNsw&list=PLjl8ZFVwrssKWqGIXg-EUMqBSEPZaX4GL)
@@ -35,7 +35,7 @@
 > 26. [Các hệ thống phân tán](https://www.youtube.com/watch?v=6tFvAyiqVsg&list=PLpUqQVPQJshIzsw_5jmNmaiqorRVwY5cF)
 
 
-## ![markdown](https://www.google.com/url?sa=i&url=https%3A%2F%2Fthangphampt.wordpress.com%2F2019%2F01%2F04%2Fmuon-tro-thanh-mot-web-developer-nen-bat-dau-tu-dau%2F&psig=AOvVaw2zwI-9II7VzokpKB0eddRl&ust=1664773298448000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMi-svvhwPoCFQAAAAAdAAAAABAD)Web Developer
+## ![markdown](https://github.com/vantuan0101/roadmap/blob/main/ta%CC%89i%20xuo%CC%82%CC%81ng.jpeg)Web Developer
 > 27. [HTML CSS](https://www.youtube.com/watch?v=R6plN3FvzFY&list=PL_-VfJajZj0U9nEXa4qyfB4U5ZIYCMPlz)
 > 28. [JavaScript](https://www.youtube.com/watch?v=0SJE9dYdpps&list=PL_-VfJajZj0VgpFpEVFzS5Z-lkXtBe-x5)
 > 29. [ReactJS](https://www.youtube.com/watch?v=x0fSBAgBrOQ&list=PL_-VfJajZj0UXjlKfBwFX73usByw3Ph9Q)
@@ -53,7 +53,7 @@
 > 40. [Java 6](https://www.youtube.com/watch?v=rJrSXYrHn5g&list=PLn9lhDYvf_3FJV4QwXlCR_-PHInqB3bAe)
 > 41. [Java 7](https://www.youtube.com/watch?v=rJrSXYrHn5g&list=PLn9lhDYvf_3HS5RvfAfH4g1XHUN1gapFV)
 
-## ![markdown](https://www.google.com/url?sa=i&url=https%3A%2F%2Fthangphampt.wordpress.com%2F2019%2F01%2F04%2Fmuon-tro-thanh-mot-web-developer-nen-bat-dau-tu-dau%2F&psig=AOvVaw2zwI-9II7VzokpKB0eddRl&ust=1664773298448000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMi-svvhwPoCFQAAAAAdAAAAABAD)Other
+## ![markdown](https://github.com/vantuan0101/roadmap/blob/main/ta%CC%89i%20xuo%CC%82%CC%81ng.jpeg)Other
 > 42. [Fullstack Java + React](https://www.youtube.com/watch?v=YvE1tj0e44c&list=PLn9lhDYvf_3H8TCsBlBvcbyV5VdUouS9Q)
 > 43. [Docker](https://www.youtube.com/watch?v=r6JiWwh-08c&list=PLwJr0JSP7i8At14UIC-JR4r73G4hQ1CXO)
 > 44. [Git](https://www.youtube.com/watch?v=0J2aou7Kj7s&list=PLkY6Xj8Sg8-viFVtaVps_h_Emi2wQyE7q)
