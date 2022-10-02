@@ -1,6 +1,6 @@
 # Road map Web Developer
 
-## ![markdown](https://www.google.com/url?sa=i&url=https%3A%2F%2Fvn.bitdegree.org%2Fhuong-dan%2Fweb-developer%2F&psig=AOvVaw2zwI-9II7VzokpKB0eddRl&ust=1664773298448000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMi-svvhwPoCFQAAAAAdAAAAABAI) Nền tảng
+## ![markdown](https://github.com/vantuan0101/roadmap/blob/main/ta%CC%89i%20xuo%CC%82%CC%81ng%20(1).jpeg) Nền tảng
 
 > 1. [Toán rời rạc](https://www.youtube.com/watch?v=UXgpKLI6L18&list=PLh1Hfe0GTSA4aXrjXDH0UrTY9tZ8adydI)
 > 2. [Nhập môn lập trình](https://www.youtube.com/watch?v=Y8PC-muAcso&list=PLn9lhDYvf_3FQbokWPQPV_Ik0iNabZJJm)
