@@ -59,6 +59,11 @@
 > 44. [Git](https://www.youtube.com/watch?v=0J2aou7Kj7s&list=PLkY6Xj8Sg8-viFVtaVps_h_Emi2wQyE7q)
 > 45. [Git WorkFlow](https://www.youtube.com/watch?v=vQgcl8VouLU&t=1177s)
 
+> 46. [The complete 2022 Web developer bootcamp](https://drive.google.com/drive/u/0/folders/1vgR7LpWYWwrgqj2RyxIgMgwxSpROpXRT)
+> 47. [Java](https://drive.google.com/drive/u/0/folders/1V1XlyKZXMIT-xc0XWVOgkum29gpWOHO4)
+> 48. [Python](https://drive.google.com/drive/u/0/folders/1BOOwZdoNnGKDgulnFPdar_aYeYvNwUJi)
+
+> [click to show more](https://drive.google.com/drive/u/0/folders/1toj0cexk8aMigZEwtFew-_mNk23RN0QZ_
 ------------------------------------------------------------------------------------------------------------------------------------
 
 
