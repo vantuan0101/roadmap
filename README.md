@@ -10,7 +10,7 @@
 
 ## ![markdown](https://github.com/vantuan0101/roadmap/blob/main/ta%CC%89i%20xuo%CC%82%CC%81ng.png)Cơ sở ngành
 
-> 6. [Cấu trúc dữ liệu và giải thuật](https://www.youtube.com/watch?v=G4lbERy0hy4&list=PLpUqQVPQJshI78_sxAZ-KerD-yr2XrzcM)
+> 6. [Cấu trúc dữ liệu và giải thuật](https://www.youtube.com/watch?v=1qCihIYpn2Q&list=PLocaI6rXo0H57EEPe31kI_2XqoVxB_NjZ&index=8)
 > 9. [Cơ sỡ dữ liệu](https://www.youtube.com/watch?v=JnHtS4SuNsw&list=PLjl8ZFVwrssKWqGIXg-EUMqBSEPZaX4GL)
 > 8. [Kiến trúc máy tính và hợp ngữ](https://www.youtube.com/watch?v=jRgEPH9uNrI&list=PLpUqQVPQJshKjqCEsB99NBUXpfACA4sI6)
 > 9. [Xử lý tín hiệu số](https://www.youtube.com/watch?v=RTC1wiELxS0&list=PLpUqQVPQJshKk924GrmF1IMrtIMuEcMIz)
