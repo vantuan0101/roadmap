@@ -43,15 +43,15 @@
 > 31. [NodeJS + ExpressJS](https://www.youtube.com/watch?v=z2f7RHgvddc&list=PL_-VfJajZj0VatBpaXkEHK_UPHL7dW6I3)
 > 32. [NestJS](https://www.youtube.com/watch?v=GHTA143_b-s&t=10132s)
 
-> 33. [Java 0](https://www.youtube.com/watch?v=6ARevHl1u_0&list=PLn9lhDYvf_3HHwblggaddYj3jLUM8gmld)
+> 33. [Java 4](https://www.youtube.com/watch?v=6ARevHl1u_0&list=PLn9lhDYvf_3HHwblggaddYj3jLUM8gmld)
 > 34. [Java 1](https://www.youtube.com/watch?v=x2qzSUmdtQU&list=PLn9lhDYvf_3HWeqzvUXr55hFRnnWGTkdS)
 > 35. [Java 2](https://www.youtube.com/watch?v=NSFFYYM57WI&list=PLn9lhDYvf_3FxFyWM53Mt5kEJJOlRyGvt)
 > 36. [Java 3](https://www.youtube.com/watch?v=vb3EY3sv1dU&list=PLn9lhDYvf_3Fag5Od5qpaswwYWOeX5bno)
-> 37. [Java 4](https://www.youtube.com/watch?v=141u7LCInhc&list=PLn9lhDYvf_3Hz9GwWrYh7b99QOuQZbfz8)
-> 38. [Java 4.2](https://www.youtube.com/watch?v=rwVr4jfq5yA&list=PLn9lhDYvf_3HZwLTxoWG4eDPFq2aVYTHC)
+> 37. [Java 3.2](https://www.youtube.com/watch?v=141u7LCInhc&list=PLn9lhDYvf_3Hz9GwWrYh7b99QOuQZbfz8)
+> 38. [Java 4](https://www.youtube.com/watch?v=rwVr4jfq5yA&list=PLn9lhDYvf_3HZwLTxoWG4eDPFq2aVYTHC)
 > 39. [Java 5](https://www.youtube.com/watch?v=WxYBIE_AqlI&list=PLn9lhDYvf_3FL-tPbpnx8o3aR4M_TeKpe)
 > 40. [Java 6](https://www.youtube.com/watch?v=rJrSXYrHn5g&list=PLn9lhDYvf_3FJV4QwXlCR_-PHInqB3bAe)
-> 41. [Java 7](https://www.youtube.com/watch?v=rJrSXYrHn5g&list=PLn9lhDYvf_3HS5RvfAfH4g1XHUN1gapFV)
+> 41. [Java 6](https://www.youtube.com/watch?v=rJrSXYrHn5g&list=PLn9lhDYvf_3HS5RvfAfH4g1XHUN1gapFV)
 
 ## ![markdown](https://github.com/vantuan0101/roadmap/blob/main/ta%CC%89i%20xuo%CC%82%CC%81ng.jpeg)Other
 > 42. [Fullstack Java + React](https://www.youtube.com/watch?v=YvE1tj0e44c&list=PLn9lhDYvf_3H8TCsBlBvcbyV5VdUouS9Q)
